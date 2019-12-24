@@ -1,5 +1,7 @@
 # opencv
 
 color - color detection
+
 face - face detection and recognition
-object - object detection (learning failed) 
+
+object - object detection (cascade model learning failed) 
